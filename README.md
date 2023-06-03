@@ -1,4 +1,5 @@
-### Hi there <img src="./assets/hello.gif"width="28px" alt="👋">
+### Hi there <img src="./assets/hello.gif" width="28px" alt="👋">
+[👋]("./assets/hello.gif")
 
 <!--
 **Luca-Javier/Luca-Javier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
