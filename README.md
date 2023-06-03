@@ -14,9 +14,12 @@
 
 ### My Tools
 ![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)
-![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)
 ![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)
 ![Astro](https://img.shields.io/badge/astro-black?style=for-the-badge&logo=astro)
 ![NextJS](https://img.shields.io/badge/NextJS-black?style=for-the-badge&logo=Next.js)
+![MongoDB](https://img.shields.io/badge/MongoDB-black?style=for-the-badge&logo=mongoDB)
+![NodeJS](https://img.shields.io/badge/NodeJS-black?style=for-the-badge&logo=node.js)
+![ExpressJS](https://img.shields.io/badge/ExpressJS-black?style=for-the-badge&logo=express)
+
 
