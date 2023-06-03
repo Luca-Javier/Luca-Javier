@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there <img src="./assets/hello.gif"width="28px" alt="👋">
 
 <!--
 **Luca-Javier/Luca-Javier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
